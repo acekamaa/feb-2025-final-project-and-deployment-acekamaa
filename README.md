@@ -1,25 +1,43 @@
-# Final Project and Deployment
+# 🌍 Travel Explorer
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+**Travel Explorer** is a responsive multi-page travel website created using HTML5, CSS3, and JavaScript. It showcases a simple travel brand with mission and team sections, interactive features like form validation, and a clean layout optimized for all screen sizes.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+---
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 🔗 Live Website
 
-## Tasks
+[👉 View the Live Site Here](https://your-deployment-url.com)  
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
 
-Good luck and happy coding! 🚀💻
+---
+
+## 🧰 Technologies Used
+
+- HTML5 – Semantic structure and layout
+- CSS3 – Responsive design, Flexbox, Grid
+- JavaScript – Interactivity, form validation
+- GitHub Pages / Netlify / Vercel – Deployment
+
+---
+
+## 📄 Pages Overview
+
+### 1. `index.html` – **Home**
+- Hero banner with a welcome message
+- Featured travel destinations (with images)
+- Responsive image layout using Flexbox/Grid
+
+### 2. `about.html` – **About**
+- Mission statement
+- Meet the team section styled with CSS Grid
+- Circular profile images with descriptions
+
+### 3. `contact.html` – **Contact**
+- Contact form with JavaScript validation
+- Input fields for name, email, and message
+- Clean and accessible layout
+
+---
+
+## 📁 Folder Structure
+
